@@ -20,4 +20,4 @@ else if (score >=0&& score <=49){
     grade = "F";
 }
 
-console.log("according to your scores, your grade was : " ,grade);
+console.log("according to your scores, your grade  : " ,grade);
